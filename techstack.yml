@@ -1,7 +1,8 @@
 repo_name: dr-gareth-roberts/one-click-hugo-cms2
 report_id: 30445826f370f12f1e07cba76e7f0423
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T03:12:00+00:00'
+timestamp: '2024-01-05T09:02:59+00:00'
 requested_by: renovate[bot]
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -38,7 +41,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -64,8 +68,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
+  detection_source: ".babelrc"
   last_updated_by: Shawn Erquhart
   last_updated_on: 2019-07-16 19:17:05.000000000 Z
 - name: ESLint
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Mathias Biilmann Christensen
   last_updated_on: 2016-07-03 22:07:47.000000000 Z
@@ -88,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2
   detection_source: Repo Metadata
 - name: Webpack
   description: A bundler for javascript and friends
@@ -99,7 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -111,6 +117,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: HerrH
   last_updated_on: 2018-01-16 18:40:00.000000000 Z
@@ -122,6 +129,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Mathias Biilmann Christensen
   last_updated_on: 2016-07-03 22:07:47.000000000 Z
@@ -134,6 +142,7 @@ tools:
   category: Application Utilities
   sub_category: Static Web Hosting
   image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/netlify.toml
   detection_source: netlify.toml
   last_updated_by: David Calavera
   last_updated_on: 2016-08-10 00:06:10.000000000 Z
@@ -148,7 +157,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -161,6 +170,7 @@ tools:
   category: Support, Sales, and Marketing
   sub_category: Self-Hosted Blogging / CMS
   image_url: https://img.stackshare.io/service/7613/YIgPht1s_400x400.jpg
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -173,6 +183,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/package.json
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -186,7 +197,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -200,7 +211,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -214,7 +225,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -228,7 +239,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -242,7 +253,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17343/default_2613a99266d0023b6108b16e4d6613c439a64039.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -256,7 +267,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -270,7 +281,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -284,7 +295,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -298,7 +309,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -312,7 +323,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -326,7 +337,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16572/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -340,7 +351,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -354,7 +365,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -368,7 +379,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16070/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -382,7 +393,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -396,7 +407,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -410,7 +421,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Alex Nelson
   last_updated_on: 2018-12-03 21:44:11.000000000 Z
@@ -424,7 +435,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -445,7 +456,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17539/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -459,7 +470,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -473,7 +484,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -487,7 +498,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -501,7 +512,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -515,7 +526,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -529,7 +540,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -543,7 +554,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -557,7 +568,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16143/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -571,7 +582,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16800/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -585,7 +596,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -599,7 +610,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
@@ -613,7 +624,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/dr-gareth-roberts/one-click-hugo-cms2/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Prince Wilson
   last_updated_on: 2022-07-07 15:40:56.000000000 Z
